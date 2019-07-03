@@ -1,0 +1,8 @@
+c:\users\traineepms1\documents\visual studio 2010\Projects\Application\Application\bin\Application.dll
+c:\users\traineepms1\documents\visual studio 2010\Projects\Application\Application\bin\Application.pdb
+c:\users\traineepms1\documents\visual studio 2010\Projects\Application\Application\obj\Debug\Application.dll
+c:\users\traineepms1\documents\visual studio 2010\Projects\Application\Application\obj\Debug\Application.pdb
+C:\Users\traineepms1\Documents\Visual Studio 2010\Projects\BulletList\Application\bin\Application.dll
+C:\Users\traineepms1\Documents\Visual Studio 2010\Projects\BulletList\Application\bin\Application.pdb
+C:\Users\traineepms1\Documents\Visual Studio 2010\Projects\BulletList\Application\obj\Debug\Application.dll
+C:\Users\traineepms1\Documents\Visual Studio 2010\Projects\BulletList\Application\obj\Debug\Application.pdb
